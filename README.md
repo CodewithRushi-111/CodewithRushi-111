@@ -78,7 +78,18 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
 </p>
+### ☁️ DevOps & Cloud
 
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+</p>
+
+---
 ---
 
 # 🚀 Featured SaaS Products
