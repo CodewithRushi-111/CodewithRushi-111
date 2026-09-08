@@ -182,7 +182,7 @@ A pharmacy-focused application designed to provide a digital experience for phar
 
 <div align="center">
 
-<img src="./f1-contribution.gif" width="100%" alt="F1 Contribution Race" />
+<img src="./f1-contribution(1).gif" width="100%" alt="F1 Contribution Race" />
 
 </div>
 
