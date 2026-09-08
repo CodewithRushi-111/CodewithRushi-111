@@ -178,11 +178,13 @@ A pharmacy-focused application designed to provide a digital experience for phar
 
 ---
 
-# 🐍 Contribution Snake
+# 🏎️ Contribution Race
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CodewithRushi-111/CodewithRushi-111/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="./f1-contribution.gif" width="100%" alt="F1 Contribution Race" />
+
+### 🏁 Code × F1 × Progress
 
 </div>
 
